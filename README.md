@@ -1,6 +1,6 @@
 __Hi there. I'm Yunsang 👋__
 
-I'm Back-end junior Developer 🖥️
+I'll be Back-end junior Developer 🖥️
 
 
 
